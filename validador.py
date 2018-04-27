@@ -4,6 +4,6 @@ correcto=True
 
 while correcto==True:
     contrasenia=input("Ingrese su Password: ")
-    if passw.clave(contrasenia)==True:
+    if contra.clave(contrasenia)==True:
         print("Contraseña Aceptada")
         correcto=False
